@@ -14,4 +14,4 @@
 ```
 在`DBM`设置选项中，将语音项设置为第三方语音：
 
-![image_1fgbedhpaeua11k5majj2103120.png-1157.2kB][3]
+![setting](http://static.zybuluo.com/usiege/2pypjlmhilw2o0gfmabrw2n8/image_1fgbedhpaeua11k5majj2103120.png)
