@@ -17,6 +17,11 @@ CurseForge：[网址预留]()
 
 WowInterface: [网址预留]()
 
+
+## 使用方法
+
+- [小兔语音包说明](./HOWTOUSE.md)
+
 ## License
 
 **You are free to:**
