@@ -2,6 +2,7 @@
 
 > 注意：语音文件名字需完全一致，包括后缀。
 
+
 |音频|文字|音频|文字|
 |:-:|:-:|:-:|:-:|:-:|
 |aesoon.ogg|准备AOE|attackshield.ogg|攻击护盾|
@@ -112,3 +113,5 @@
 |whirlwind.ogg|旋风斩|wwsoon.ogg|准备旋风|
 
 ![image_1fgno2grafnj1e1n12b01g2s1taip.png-1134.1kB][8]
+
+[8]: http://static.zybuluo.com/usiege/eo0sfd1dg3m7c7cabdzl1ucr/image_1fgno2grafnj1e1n12b01g2s1taip.png

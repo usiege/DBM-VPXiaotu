@@ -158,7 +158,6 @@ XiaoTu:SetScript("OnEvent", XiaoTuEvent)
   [5]: http://static.zybuluo.com/usiege/3o6a8ncltis3nxjl7zyvsx2q/image_1fgj4eqac1qt413duon612ej1ev9.png
   [6]: http://static.zybuluo.com/usiege/mzi83yyf0ph6qqjaq1u6xlh5/image_1fgj77vel3qqnf01o761pokhn513.png
   [7]: http://static.zybuluo.com/usiege/vtnj5vpojcbsefxbpy9acp42/image_1fgj7nveo1hmh6vip5e9721g6f1g.png
-  [8]: http://static.zybuluo.com/usiege/eo0sfd1dg3m7c7cabdzl1ucr/image_1fgno2grafnj1e1n12b01g2s1taip.png
   [9]: http://static.zybuluo.com/usiege/peumg5dkl41el9tyn0a0482c/image_1fhppl8j61arc1ehk1bve9fcufp.png
 
 
