@@ -24,9 +24,15 @@
 [WowInterface: 网址预留]()
 
 
-## 使用方法
+## 食用方法
 
 - [小兔语音包说明](./HOWTOUSE.md)
+
+
+## 音效说明文件
+
+- [音效说明文件](./AUDIODES.MD)
+
 
 ## License
 
