@@ -4,7 +4,7 @@
 
 
 |音频|文字|音频|文字|
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|
 |aesoon.ogg|准备AOE|attackshield.ogg|攻击护盾|
 |attacktotem.ogg|图腾快打|attbomb.ogg|蛋快打|
 |attleft.ogg|左边快打|attmid.ogg|中间快打|
