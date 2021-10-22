@@ -20,7 +20,7 @@
 - **注意：** 本语音包的所有语音素材版权全部属于云小兔同学。
 - 有问题可以在git上留issue，或者去NGA以及小兔的鱼吧发帖。
 
-[CurseForge: 网址预留]()
+[CurseForge: https://www.curseforge.com/wow/addons/dbm-vpxiaotu](https://www.curseforge.com/wow/addons/dbm-vpxiaotu)
 
 [WowInterface: 网址预留]()
 
