@@ -33,11 +33,12 @@
 
 - [小兔语音包说明](./HOWTOUSE.md)
 
-
-## 音效说明文件
-
 - [音效说明文件](./AUDIODES.MD)
 
+
+## 遇到任何问题
+
+- [问题解答](https://github.com/usiege/publisher/issues)
 
 ## License
 
