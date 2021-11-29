@@ -39,7 +39,8 @@
 
 - [小兔语音包说明](./HOWTOUSE.md)
 
-- [音效说明文件](./AUDIODES.MD)
+- [【听风】WOW单体插件DBM语音修改](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484556&idx=1&sn=1aa51d880a0b4989b81dbb6807b2412f&chksm=eaf13a19dd86b30fdbaf35a615910136f15afcac8ef14c2fd0141e5e51b5734a9577c4235410&token=123884504&lang=zh_CN#rd)
+- [【听风】关于DBM第三方语音包的补充修改](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484864&idx=1&sn=ff032b2a031f5c17132dbe7527e617e2&chksm=eaf13b55dd86b24398638dc006a5e7f2c5eae446552d07a23ddb7f9e24ab3da63a525b36ebe8&token=2078266556&lang=zh_CN#rd)
 
 
 ## 遇到任何问题
